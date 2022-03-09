@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5564413a8149345a3d7be308b2105d, type: 3}
+  m_Name: A4.Shouting
+  m_EditorClassIdentifier: 
+  storyText: "\"HEEEYYYY!!\n\nWILL YOU SHUT UP? THERE ARE PEOPLE IN THIS WORLD TOO,
+    YOU KNOW?\n\n*mumbles* Yeah of course, you guys don't work so you don't care...\"\n\nAs
+    I try to go back to sleep I hear a loud noise, as if they were trying to get in
+    my house - does someone want to mess with me?\n\nWhat's the next step I will take?\n
+    1 - Go downstairs and open the door, ready for combat\n 2 - Go downstairs, apologise
+    and offer them some money"
+  nextStates:
+  - {fileID: 11400000, guid: 45015fe7e30a9ae479b167894d6cb155, type: 2}
+  - {fileID: 0}
