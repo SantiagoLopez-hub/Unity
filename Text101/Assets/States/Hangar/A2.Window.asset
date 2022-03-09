@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5564413a8149345a3d7be308b2105d, type: 3}
+  m_Name: A2.Window
+  m_EditorClassIdentifier: 
+  storyText: "I get up and look through the window to find out that there are a lot
+    of people in the street making noise and they do not let me sleep.\n\nI am working
+    tomorrow and I need to rest.\n\nWhat shall I do?\n 1 - Shout at them\n 2 - Throw
+    a home-made smoke grenade at them\n 3 - Step outside and deal with the situation
+    in a proffessional manner"
+  nextStates:
+  - {fileID: 11400000, guid: b9d9804114eb28b41a0a18a31c176cb2, type: 2}
+  - {fileID: 11400000, guid: adb9d5a39f2191f418c013f8cbadada6, type: 2}
+  - {fileID: 11400000, guid: 65b6ec6cdede5034490d414cec8f48fc, type: 2}
