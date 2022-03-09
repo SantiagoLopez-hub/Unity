@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2b5564413a8149345a3d7be308b2105d, type: 3}
+  m_Name: A6.Stepping Outside
+  m_EditorClassIdentifier: 
+  storyText: "Alright, they are probably just young people trying to have a good time.\nThey
+    just need to realise that they are interrupting some of my precious sleep.\n\nI
+    step outside and they all look at me. I can barely see their faces... It's so
+    dark...\n\n\"Hey guys, I am your neighbour and just wanted to kindly ask you to
+    keep it down a little, I am trying to sleep\"\n\nHmmm... They don't seem to care...
+    I will repeat it a little louder in case they didn't hear me.\n\n\"Guys! Could
+    you keep it down please?\"\n\nAll of a sudden they all walk towards me.\n\nWhat
+    shall I do?\n 1 - Close the door"
+  nextStates:
+  - {fileID: 0}
